@@ -1,0 +1,15 @@
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/toy_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/kaitosuzuki/.rbenv/versions/3.0.1/bin/ruby -I /Users/kaitosuzuki/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 -r ./siteconf20210620-16564-any543.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/toy_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/toy_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/toy_app/vendor/bundle/ruby/3.0.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210620-16564-le1njs/skiptrace/internal

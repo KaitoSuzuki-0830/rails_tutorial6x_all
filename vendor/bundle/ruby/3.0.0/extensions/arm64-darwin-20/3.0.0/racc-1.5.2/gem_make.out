@@ -1,0 +1,16 @@
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/toy_app/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+/Users/kaitosuzuki/.rbenv/versions/3.0.1/bin/ruby -I /Users/kaitosuzuki/.rbenv/versions/3.0.1/lib/ruby/site_ruby/3.0.0 -r ./siteconf20210620-16564-38qz73.rb extconf.rb
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/toy_app/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/toy_app/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/kaitosuzuki/Desktop/railstutorial6x/toy_app/vendor/bundle/ruby/3.0.0/gems/racc-1.5.2/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20210620-16564-5xk0ys/racc
